@@ -50,6 +50,4 @@ To run the Space Invaders game on your local machine, follow these steps:
 
 ## Support
 
-If you encounter any issues or have questions, please feel free to [open an issue](https://github.com/your-username/space-invaders/issues) on this repository.
-
 Enjoy the game! Thank you for playing Space Invaders.
