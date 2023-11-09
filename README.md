@@ -1,6 +1,4 @@
 # Space-Invader-Game-using-Python
-Creating a README file for your GitHub repository is a great way to provide information about your project, how to use it, and any other relevant details. Here's a simple README file for your Space Invaders game:
-
 # Space Invaders
 
 Space Invaders is a classic arcade game implemented in Python using the Turtle graphics library. This project allows you to play the game, shoot down enemy invaders, and earn points. Feel free to fork this repository and make any improvements or modifications.
@@ -49,24 +47,6 @@ To run the Space Invaders game on your local machine, follow these steps:
 - Game over when an enemy touches your spaceship.
 - Sound effects for shooting and collisions.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE). You are free to use, modify, and distribute it as you see fit. Make sure to give credit if you build upon this project.
-
-## Credits
-
-- Original Space Invaders game concept by Taito Corporation.
-- Sound effects used under the MIT License.
-
-## Contribution
-
-If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them.
-4. Push your changes to your fork.
-5. Submit a pull request to the main repository.
 
 ## Support
 
